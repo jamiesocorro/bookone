@@ -1,5 +1,5 @@
 {
-  "name": "bookone",
+  "name": "BoBa",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,11 +10,16 @@
   },
   "dependencies": {
     "@types/web-push": "^3.6.4",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
     "i": "^0.3.7",
+    "lucide-react": "^0.454.0",
     "next": "15.0.2",
     "next-auth": "^4.24.10",
     "react": "19.0.0-rc-02c0e824-20241028",
     "react-dom": "19.0.0-rc-02c0e824-20241028",
+    "tailwind-merge": "^2.5.4",
+    "tailwindcss-animate": "^1.0.7",
     "web-push": "^3.6.7"
   },
   "devDependencies": {

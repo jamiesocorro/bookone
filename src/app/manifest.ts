@@ -2,8 +2,8 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "BookOne",
-    short_name: "BookOne",
+    name: "BoBa",
+    short_name: "BoBa",
     description: "Booking app for artists",
     start_url: "/",
     display: "standalone",
