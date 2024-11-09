@@ -2,7 +2,7 @@
   "name": "BoBa",
   "short_name": "BoBa",
   "description": "Booking app for artists",
-  "start_url": "/",
+  "start_url": "/bookone/user",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
