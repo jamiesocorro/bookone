@@ -27,7 +27,7 @@ export default function RootLayout({
   return (
     <html className="h-full" lang="en">
       <head>
-        <link rel="manifest" href="/manifest.webmanifest" />
+        <link rel="manifest" href="/bookone/manifest.webmanifest" />
         <meta name="theme-color" content="#000000" />
       </head>
       <body
