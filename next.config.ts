@@ -55,6 +55,7 @@
 const nextConfig = {
   output: "export", // lightweight but no dynamic routes & api support
   // output: "standalone", // bulkier but supports dynamic routes & api
+  staticPageGenerationTimeout: 120,
 };
 
 module.exports = nextConfig;
