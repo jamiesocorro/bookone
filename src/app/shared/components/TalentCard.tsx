@@ -34,7 +34,7 @@ const TalentCard = ({ talents, type }: TalentCardProps) => {
                                         query: { talentId: 0 },
                                     }}
                                 >
-                                    <div className={`bg-cover relative bg-center ${cardHeight} rounded-lg`} style={{ backgroundImage: `url('https://jamiesocorro.github.io/bookone/images/${talent.image}')` }}>
+                                    <div className={`bg-cover relative bg-center ${cardHeight} rounded-lg`} style={{ backgroundImage: `url('https://jamiesocorro.github.io/bookone/${talent.image}')` }}>
                                         <div className="flex flex-col items-center p-1 absolute bottom-0 text-center w-full font-bold bg-black bg-opacity-50 rounded-b-lg">
                                             <div>
                                                 <div className="flex">
