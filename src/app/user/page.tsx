@@ -51,7 +51,7 @@ export default function User() {
 
     return (
         <div className="bg-gradient-to-bottom from-darkViolet to-darkerViolet h-screen w-full">
-            <div className="flex items-center text-white text-6xl font-bold text-center rounded-xl bg-cover bg-center h-40" style={{ backgroundImage: `url('http://localhost:3000/images/modern-tech.jpg')` }}>
+            <div className="flex items-center text-white text-6xl font-bold text-center rounded-xl bg-cover bg-center h-40" style={{ backgroundImage: `url('https://jamiesocorro.github.io/images/modern-tech.jpg')` }}>
                 <div className="text-center w-full">
                     {tag.name}
                 </div>
