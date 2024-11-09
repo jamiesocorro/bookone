@@ -7,7 +7,7 @@ import Image from "next/image";
 export default function TalentProfile() {
     return (
         <div className="h-full text-white  bg-gradient-to-bottom from-darkViolet to-darkerViolet">
-            <div className="bg-cover relative bg-top h-72" style={{ backgroundImage: `url('https://jamiesocorro.github.io/images/Lyra.jpg')` }}>
+            <div className="bg-cover relative bg-top h-72" style={{ backgroundImage: `url('https://jamiesocorro.github.io/bookone/images/Lyra.jpg')` }}>
 
             </div>
 
